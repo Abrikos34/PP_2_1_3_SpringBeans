@@ -1,0 +1,43 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Build output
+/target/
+*.class
+
+# Logs
+*.log
+
+# Maven
+.mvn/
+!mvn/wrapper/maven-wrapper.jar
+**/dependency-reduced-pom.xml
+
+# IDE-specific files
+/shelf/
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Workspace-specific
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/vcs.xml
+
+# Test outputs
+/test-output/
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Environment variables (if used)
+.env
